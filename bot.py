@@ -4,7 +4,7 @@ from telebot import types
 from flask import Flask, request
 
 # توكن بوتك الأساسي
-TOKEN = "8885386848:AAHPNJ0mOgXBFt_sA4sXXvP106l000b0y6"
+TOKEN = "8805386848:AAHPNJOMnOgXBfL_sA4sXKVgPiDSiBBBBy0"
 ADMIN_CHAT_ID = "53086848"
 
 bot = telebot.TeleBot(TOKEN)
